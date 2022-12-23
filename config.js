@@ -6,25 +6,25 @@ import fs from 'fs'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js' 
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
-global.owner = [ ['wa.me/593968585383'], //owner
-global.owner1 =  ['wa.me/584125778026', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈'],
-global.owner1 =  ['wa.me/573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 1 💖🐈'], 
-global.owner2 =  ['wa.me/5492266466080'],  // colaborado ² 
-global.owner3 =  ['wa.me/573238484181'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 1 💖🐈
-global.owner4 = ['wa.me/447451229913'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈
-global.owner5 = ['wa.me/573208089136'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈
-global.owner6 =  ['wa.me/593959425714'], 
-global.owner7 =  ['wa.me/573136855110'],
-global.owner8 =  ['wa.me/50689823726'],
-global.owner9 =  ['wa.me/50495086382'],
-global.owner10 =  ['wa.me/51960086535'], 
-global.owner11 =  ['wa.me/584166662765'],
-global.owner12 =  ['wa.me/584163647116']]
+global.owner = [ ['wa.me/923165123719'], //owner
+global.owner1 =  ['wa.me/923165123719', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈'],
+global.owner1 =  ['wa.me/923165123719', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 1 💖🐈'], 
+global.owner2 =  ['wa.me/923165123719'],  // colaborado ² 
+global.owner3 =  ['wa.me/923165123719'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 1 💖🐈
+global.owner4 = ['wa.me/923165123719'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈
+global.owner5 = ['wa.me/923165123719'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈
+global.owner6 =  ['wa.me/923165123719'], 
+global.owner7 =  ['wa.me/923165123719'],
+global.owner8 =  ['wa.me/923165123719'],
+global.owner9 =  ['wa.me/923165123719'],
+global.owner10 =  ['wa.me/923165123719'], 
+global.owner11 =  ['wa.me/923165123719'],
+global.owner12 =  ['wa.me/923165123719']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.asiste = ['Wa.me/51993042301'] //asistencia para usuario 
+global.asiste = ['wa.me/923165123719'] //asistencia para usuario 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['923165123719'], 
   
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -109,8 +109,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝑫𝒂𝒓𝒌 𝑫𝒆𝒗𝒊𝒍 🇵🇰🖤'
+global.author = '𝑼𝒎𝒂𝒓 𝑶𝒇𝒄'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -120,7 +120,7 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.4.0 (Navidad) 🎄'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝑼𝒅-𝑴𝒅'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
